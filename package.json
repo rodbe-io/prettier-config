@@ -64,6 +64,9 @@
   "license": "MIT",
   "name": "@rodbe/prettier-config",
   "packageManager": "pnpm@9.15.2",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  },
   "publishConfig": {
     "access": "public"
   },
