@@ -7,7 +7,7 @@ npm install -D @rodbe/prettier-config
 ```
 
 ## Usage
-### In `.prettierrc.js`, or `prettier.config.js`
+### In JS file: `.prettierrc.js`, or `prettier.config.js`
 
 ```ts
 import rodbePrettier from "@rodbe/prettier-config";
@@ -22,6 +22,12 @@ const config = {
 
 export default config;
 ```
+
+### In JSON format: `.prettierrc`, `.prettierrc.json`
+```json
+"@rodbe/prettier-config"
+```
+
 ### In `package.json`
 ```json
 {
