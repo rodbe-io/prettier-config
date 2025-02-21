@@ -1,3 +1,10 @@
+## [1.2.0](https://github.com/rodbe-io/prettier-config/compare/v1.1.0...v1.2.0) (2025-02-21)
+
+
+### Features
+
+* add overrides config ([7d5910b](https://github.com/rodbe-io/prettier-config/commit/7d5910b82fad9ad863c68cac316994195e0742ab))
+
 ## [1.1.0](https://github.com/rodbe-io/prettier-config/compare/v1.0.0...v1.1.0) (2025-02-01)
 
 
