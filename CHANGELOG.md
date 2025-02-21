@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/rodbe-io/prettier-config/compare/v1.2.0...v1.3.0) (2025-02-21)
+
+
+### Features
+
+* add mid config ([9e9cb6e](https://github.com/rodbe-io/prettier-config/commit/9e9cb6eee7f9fd85d821d33091054ee2bfe7ab78))
+
 ## [1.2.0](https://github.com/rodbe-io/prettier-config/compare/v1.1.0...v1.2.0) (2025-02-21)
 
 
