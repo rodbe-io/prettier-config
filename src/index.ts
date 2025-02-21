@@ -1,3 +1,4 @@
+// http://json.schemastore.org/prettierrc
 // eslint-disable-next-line no-restricted-exports
 export default {
   arrowParens: 'always',
@@ -5,6 +6,10 @@ export default {
   bracketSpacing: true,
   endOfLine: 'lf',
   htmlWhitespaceSensitivity: 'css',
+  overrides: [
+    { files: '.*rc', options: { parser: 'json' } },
+    { files: '.nvmrc', options: { parser: 'yaml' } },
+  ],
   printWidth: 100,
   proseWrap: 'preserve',
   singleQuote: true,
