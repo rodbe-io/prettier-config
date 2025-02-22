@@ -1,3 +1,10 @@
+## [1.3.1](https://github.com/rodbe-io/prettier-config/compare/v1.3.0...v1.3.1) (2025-02-22)
+
+
+### Bug Fixes
+
+* version for peerDependencies ([120f116](https://github.com/rodbe-io/prettier-config/commit/120f116d47756f1e36adf6e87d5ac554df94c6d1))
+
 ## [1.3.0](https://github.com/rodbe-io/prettier-config/compare/v1.2.0...v1.3.0) (2025-02-21)
 
 
