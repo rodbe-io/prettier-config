@@ -12,6 +12,7 @@ export default {
   ],
   printWidth: 100,
   proseWrap: 'preserve',
+  singleAttributePerLine: true,
   singleQuote: true,
   tabWidth: 2,
   trailingComma: 'es5',
