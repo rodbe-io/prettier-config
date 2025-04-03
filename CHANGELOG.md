@@ -1,3 +1,10 @@
+## [1.4.0](https://github.com/rodbe-io/prettier-config/compare/v1.3.1...v1.4.0) (2025-04-03)
+
+
+### Features
+
+* add singleAttributePerLineÂ ([1f2ea85](https://github.com/rodbe-io/prettier-config/commit/1f2ea85d4b96b83ed312500e95210b1f2221e8ca))
+
 ## [1.3.1](https://github.com/rodbe-io/prettier-config/compare/v1.3.0...v1.3.1) (2025-02-22)
 
 
