@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/rodbe-io/prettier-config/compare/v1.4.0...v1.5.0) (2025-07-12)
+
+
+### Features
+
+* update config ([99c27f4](https://github.com/rodbe-io/prettier-config/commit/99c27f49dcb5327f5a8f4e76a6d4f7d7b96b4560))
+
 ## [1.4.0](https://github.com/rodbe-io/prettier-config/compare/v1.3.1...v1.4.0) (2025-04-03)
 
 
