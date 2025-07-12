@@ -1,4 +1,4 @@
-# Sharable RBX Prettier Config
+# Shareable RBX Prettier Config
 
 ## Installation
 
