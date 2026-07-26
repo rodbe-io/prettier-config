@@ -12,6 +12,13 @@ export default {
   overrides: [
     { files: '.*rc', options: { parser: 'json' } },
     { files: '.nvmrc', options: { parser: 'yaml' } },
+    {
+      files: '*.md',
+      options: {
+        parser: 'markdown',
+        proseWrap: 'always',
+      },
+    },
   ],
   printWidth: 100,
   proseWrap: 'preserve',
