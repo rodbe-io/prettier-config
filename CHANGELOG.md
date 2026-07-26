@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/rodbe-io/prettier-config/compare/v1.5.0...v1.6.0) (2026-07-26)
+
+### Features
+
+* sync oidc + eslint + release config ([dc9e885](https://github.com/rodbe-io/prettier-config/commit/dc9e885eb92c2285a9d621f4bbc9d202a9fb8915))
+* use base config in mid config ([1cf7dd6](https://github.com/rodbe-io/prettier-config/commit/1cf7dd6bb83c40154a969b2533ffd103d5774ac1))
+
 ## [1.5.0](https://github.com/rodbe-io/prettier-config/compare/v1.4.0...v1.5.0) (2025-07-12)
 
 
